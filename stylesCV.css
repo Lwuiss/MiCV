@@ -1,0 +1,14 @@
+body 
+    { background: url(base.png) ; background-size: cover; background-attachment: fixed; 
+    }
+    
+    .avatar 
+        img {
+        width: 250px;
+        height: 250px;
+        border-radius: 50%;
+        display: block;
+        box-shadow: 20 px 20px 0px #424424;
+        }
+    .Texto1 
+        p {color: #0B2161; font-weight: 900; font-style: oblique ; font-size: larger; }
